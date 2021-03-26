@@ -1,2 +1,0 @@
-# ez-biz
-Capstone Projects
